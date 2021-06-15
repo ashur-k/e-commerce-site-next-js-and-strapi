@@ -1,0 +1,9 @@
+Creating Strapi App
+    npx create-strapi-app ecommerce-backend --quickstart
+        there were issues crating app, I have tried with yarn and it id didn't worked at all after time showed some error
+
+Creating Next app
+    npx create-next-app    
+    then name your app
+
+    yarn dev to start app
