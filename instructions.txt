@@ -7,3 +7,9 @@ Creating Next app
     then name your app
 
     yarn dev to start app
+
+    Installing Magic
+        => Created free tier account at magic.link (https://magic.link/)
+        => Created app ecommerce
+        => Installed magic in type script
+            ==>npm i magic-sdk 
