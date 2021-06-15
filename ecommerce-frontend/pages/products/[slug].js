@@ -24,6 +24,12 @@ const Product = () => {
             <p>{product.content}</p>
         </div>
         )
-} 
+}
+
+export async function getStaticPaths() {
+    //Retrieve all the possible paths
+
+    //Return them to NextJs content
+}
 
 export default Product
